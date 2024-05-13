@@ -1,4 +1,4 @@
-# **Amazon Power BI Dashboard for Product Insights**
+# **Power BI Dashboard for Product Insights**
 
 ## **Introduction:**
 
