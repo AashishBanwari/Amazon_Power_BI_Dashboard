@@ -22,7 +22,7 @@ Through three main pages - Overview, Products, and Product Details - users can e
 •	Features search functionality and intuitive page navigation for ease of exploration.
 
 
-![Overview Page 1](https://github.com/AashishBanwari/Amazon_Power_BI_Dashboard/assets/130801409/9575f81a-6a10-4d6d-a70a-1aae8d55eecf)
+![Overview Page 1](https://github.com/AashishBanwari/Amazon_Power_BI_Dashboard/assets/130801409/7dc48721-7869-4d01-a9a8-9f83b7ac5f83)
 
 
 ### _**2. Products:**_
