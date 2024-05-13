@@ -7,6 +7,10 @@ Welcome to the Power BI Dashboard for Product Insights! This interactive dashboa
 The objective of the Power BI Dashboard for Product Insights is to provide a robust platform for analyzing sales data and product performance, facilitating informed decision-making in product and category management. By synthesizing complex datasets into intuitive visualizations and interactive tools, this project aims to empower users with actionable insights to optimize product offerings, pricing strategies, and other important business decisions.
 Through three main pages - Overview, Products, and Product Details - users can explore sales trends, identify top-performing products, and delve into detailed product attributes. The interactive nature of the dashboard allows for seamless navigation between pages, enhancing user experience and facilitating comprehensive analysis.
 
+
+![For main Page 2](https://github.com/AashishBanwari/Amazon_Power_BI_Dashboard/assets/130801409/73c74317-08cf-44a2-8624-f1ce0be012fd)
+
+
 ## **Pages:**
 
 ### _**1. Overview:**_
